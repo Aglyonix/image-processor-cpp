@@ -6,15 +6,15 @@ Ce projet est traiteur d'image, il permet de traîter les images à travers diff
 
 ## Table des matières
 
-- Installation
+- Essayer
 - Utilisation
 - Contributeur
 
-## Installation
+## Essayer
 
-Pour installer le projet, telecharger le fichier .zip fournis et l'extraire.
-Importer ensuite les fichier sur l'editeur de votre choix (visual studio, codeblocks, nottepad++,etc...)
-compiler et executer le projet pour commencer à l'utiliser.
+Pour essayer le projet, ou executer directement le main.exe.
+Ou compiler ```g++ src/*.cpp -o main.exe```
+Puis executer le projet.
 
 ## Utilisation
 
