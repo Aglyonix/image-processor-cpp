@@ -1,8 +1,6 @@
-# S102-Images
-
 ## Description
 
-Ce projet est traiteur d'image, il permet de traîter les images à travers différentes fonctionnalitées interactives.
+Ce projet est un traiteur d'image, il permet de traîter les images .ppm à travers différentes fonctionnalitées interactives.
 
 ## Table des matières
 
